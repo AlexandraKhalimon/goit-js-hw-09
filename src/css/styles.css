@@ -16,3 +16,11 @@
 @import url('./badges.css');
 @import url('./back-link.css');
 @import url('./footer.css');
+
+
+ul a {
+  font-size: 24px;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #242424;
+}
